@@ -14,8 +14,14 @@ A responsive and accessible newsletter sign-up component built with **React**, *
 </div>
 
 ---
+ [Site Preview](https://www.frontendmentor.io/challenges/newsletter-signup-form-with-success-message-Mybc6snc42)
+---
+![Desktop Preview](./preview/desktop-preview.png)
+---
+![Tablet Preview](./preview/tablet-preview.png)
+---
+![Mobile Preview](./preview/mobile-preview.png)
 
-![Desktop Preview](./design/desktop-success-active.jpg)
 
 ---
 
@@ -96,11 +102,11 @@ npm run build
 
 ### ✅ Success State (Desktop)
 
-![Success State](./design/desktop-success-active.jpg)
+![Success State](./preview/success-desktop-preview.png)
 
 ### ❌ Error State
 
-![Error State](./design/error-states.jpg)
+![Error State](./preview/error-desktop-preview.png)
 
 ---
 
