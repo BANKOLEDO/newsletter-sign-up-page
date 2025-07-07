@@ -1,12 +1,136 @@
-# React + Vite
+# 📩 Newsletter Sign-Up Form with Success Message
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive and accessible newsletter sign-up component built with **React**, **Vite**, and **Tailwind CSS** inspired by the [Frontend Mentor challenge](https://www.frontendmentor.io/challenges/newsletter-signup-form-with-success-message-Mybc6snc42).
 
-Currently, two official plugins are available:
+<div align="center">
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Made with Vite](https://img.shields.io/badge/Made%20with-Vite-646CFF?logo=vite&logoColor=white)
+![React](https://img.shields.io/badge/Powered%20by-React-61DAFB?logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Styled%20with-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Deployed on Vercel](https://img.shields.io/badge/Deployed-Vercel-black?logo=vercel&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen)
 
-## Expanding the ESLint configuration
+</div>
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+![Desktop Preview](./design/desktop-success-active.jpg)
+
+---
+
+## ✨ Features
+
+- ✅ Fully responsive design (mobile & desktop)
+- ⚠️ Custom input validation with error states
+- 📬 Success state message with email confirmation
+- 🧑‍💻 Built with React + Vite + Tailwind CSS
+- ♿️ Accessible & semantic HTML structure
+- 💨 Fast build and dev environment with Vite
+
+---
+
+## 🚀 Technologies Used
+
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [ESLint](https://eslint.org/) + optional Prettier
+
+---
+
+## 📁 Folder Structure
+
+```
+
+.
+├── public/
+├── src/
+│   ├── components/
+│   │   ├── EmailForm.jsx
+│   │   ├── NewsletterCard.jsx
+│   │   └── SuccessCard.jsx
+│   ├── App.jsx
+│   └── main.jsx
+├── design/               # 🔒 Ignored from Git
+├── .gitignore
+├── index.html
+├── tailwind.config.js
+├── postcss.config.js
+└── README.md
+
+````
+
+---
+
+## 🛠️ Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/newsletter-signup.git
+cd newsletter-signup
+````
+
+### 2. Install dependencies
+
+```bash
+npm install
+```
+
+### 3. Start the dev server
+
+```bash
+npm run dev
+```
+
+### 4. Build for production
+
+```bash
+npm run build
+```
+
+---
+
+## 🧪 Design States
+
+### ✅ Success State (Desktop)
+
+![Success State](./design/desktop-success-active.jpg)
+
+### ❌ Error State
+
+![Error State](./design/error-states.jpg)
+
+---
+
+## 🙈 Git Ignore
+
+Design files like `.jpg`, `.png`, and the entire `/design` folder are excluded from version control via `.gitignore`.
+
+```gitignore
+design/
+*.jpg
+*.png
+```
+
+---
+
+## 📬 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+## 💡 Credits
+
+* Challenge: [Frontend Mentor](https://www.frontendmentor.io/)
+* Dev: [@dev\_olabanks](https://x.com/dev_olabanks)
+* Illustrations: Provided by Frontend Mentor
+
+---
+
+> Built with 💙 by [@dev\_olabanks](https://x.com/dev_olabanks)
+
+```
+
