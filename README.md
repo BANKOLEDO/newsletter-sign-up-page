@@ -14,7 +14,7 @@ A responsive and accessible newsletter sign-up component built with **React**, *
 </div>
 
 ---
- [Site Preview](https://newsletter-sign-up-page-aovhihkxg-bankoledos-projects.vercel.app/)
+ [Site Preview](https://https://newsletter-sign-up-page-ola.vercel.app/)
 ---
 ![Desktop Preview](./preview/desktop-preview.png)
 ---
