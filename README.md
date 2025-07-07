@@ -14,7 +14,7 @@ A responsive and accessible newsletter sign-up component built with **React**, *
 </div>
 
 ---
- [Site Preview](https://www.frontendmentor.io/challenges/newsletter-signup-form-with-success-message-Mybc6snc42)
+ [Site Preview](https://newsletter-sign-up-page-aovhihkxg-bankoledos-projects.vercel.app/)
 ---
 ![Desktop Preview](./preview/desktop-preview.png)
 ---
