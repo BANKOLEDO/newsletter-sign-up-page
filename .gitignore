@@ -25,9 +25,3 @@ dist-ssr
 
 # Ignore design assets
 design
-*.jpg
-*.jpeg
-*.png
-*.psd
-*.fig
-*.ai
